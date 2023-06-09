@@ -16,7 +16,7 @@ RSS: false
 #weibo_username: 暂定
 #zhihu_username: 暂定
 github_username: MyDearATRI
-email: renyihun@gmail.com
+#email: renyihun@gmail.com
 #twitter_username: 暂定
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -75,7 +75,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "一步一脚印"
+sidebar-about-description: "e-mail:renyihun@gmail.com; QQ:2704795154"
 sidebar-avatar: https://github.com/MyDearATRI/MyDearATRI.github.io/blob/master/img/ATRI头像1.png
 #sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
