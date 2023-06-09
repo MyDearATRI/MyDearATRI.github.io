@@ -9,6 +9,8 @@ tags:
 
 ---
 
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: {inlineMath: [['$','$'],['\\(','\\)']]} }); </script> <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+
 *本文仅用作测试博客长文稳定性，不然上传了笔记又有bug我会想似，文本内容一派胡言，切勿轻信！
 
  (This article is only used to test blog stability)
@@ -28,6 +30,8 @@ tags:
 “逆练”是一种精神，翻开一本自己感兴趣的书，通过往回查自己不懂不认识的知识从而学习它，这样对我而言我还能更加深刻的理解这个概念出现的motivation，通过自主的思考而去收获扎实的知识，避免了照本宣科。
 
 所以我通过“逆练”，剔除功利，剔除纠结，纯粹的以热爱为动力，这是我的“逆练心法”。
+
+（果然有bug，公式不显示hhh）
 
 
 
