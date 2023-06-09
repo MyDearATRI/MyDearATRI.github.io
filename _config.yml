@@ -13,10 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: 暂定
-zhihu_username: 暂定
+#weibo_username: 暂定
+#zhihu_username: 暂定
 github_username: MyDearATRI
-twitter_username: 暂定
+email: renyihun@gmail.com
+#twitter_username: 暂定
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
