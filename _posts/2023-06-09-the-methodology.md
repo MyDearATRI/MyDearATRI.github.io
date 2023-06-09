@@ -5,7 +5,7 @@ author: "小春"
 header-img: "img/post-bg-web.jpg"
 header-mask: 0.4
 tags:
-  - My Methodlogy
+  - test
 
 ---
 
