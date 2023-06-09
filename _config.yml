@@ -76,7 +76,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "e-mail:renyihun@gmail.com; QQ:2704795154"
-sidebar-avatar: https://github.com/MyDearATRI/MyDearATRI.github.io/blob/master/img/ATRI头像1.png
+sidebar-avatar: https://github.com/MyDearATRI/MyDearATRI.github.io/blob/master/img/ATRI头像1.png?raw=true
 #sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
