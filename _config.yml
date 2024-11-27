@@ -2,9 +2,9 @@
 title: 小春的数学小窝
 SEOTitle: 小春的数学小窝
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+#email: huxpro@gmail.com
 description: "这里是 @小春 的个人数学日志｜记录每日的数学学习"
-keyword: "Manifold, Abstract Algebra, Real Analysis, Topo, German, French, CS/IT"
+keyword: "Manifold, Abstract Algebra, Real Analysis, Topo, German, French, CS/IT, Aztec"
 #url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
